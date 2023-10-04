@@ -29,3 +29,9 @@ Zaokrąglamy zgodnie z zasadami matematyki.
 `npm run test`
 
 Wynik testu możesz znaleźć w rejectedOrders.csv
+
+### Narzędzia użyte do testów:
+
+- Java script
+- Mocha jako runner testów
+- Node do zarządzania plikami
